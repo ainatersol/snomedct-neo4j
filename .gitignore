@@ -3,6 +3,8 @@ snomed-database-loader/
 SnomedCT_ManagedServiceUS_PRODUCTION_US1000124_20230901T120000Z/
 snomed/
 
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
