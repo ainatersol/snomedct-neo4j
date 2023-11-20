@@ -5,6 +5,7 @@ snomed/
 SnomedCT_Release_VTS1000009_2/
 SnomedCT_ManagedServiceUS_PRODUCTION_US1000124_20230301T120000Z/
 snomed-vet/
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
